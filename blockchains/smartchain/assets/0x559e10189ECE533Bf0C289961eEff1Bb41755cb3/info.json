@@ -1,0 +1,12 @@
+{
+  "name": "Dirham World Halal",
+  "type": "BEP20",
+  "symbol": "DWH",
+  "decimals": 18,
+  "description": "Dirham World Halal (DWH) is a digital utility token on BNB Smart Chain.",
+  "website": "https://dirhamworldhalal.com/",
+  "explorer": "https://bscscan.com/token/0x559e10189ECE533Bf0C289961eEff1Bb41755cb3",
+  "research": "https://github.com/Dirhamworldhalal-DWH/assets",
+  "tags": [],
+  "links": []
+}
